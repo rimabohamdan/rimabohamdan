@@ -1,5 +1,4 @@
 # **👋🏻 Hi, I'm Rima !**
-
 ##
  🌱 I’m currently learning the Python programming language and working on enhancing my skills in it. 
  
