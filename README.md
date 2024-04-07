@@ -1,4 +1,5 @@
 # **👋🏻 Hi, I'm Rima !**
+[About Me](https://github.com/rimabohamdan/rimabohamdan/blob/main/photo_5807949816590882967_y.jpg)
 ##
  🌱 I’m currently learning the Python programming language and working on enhancing my skills in it. 
  
