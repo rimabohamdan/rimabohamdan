@@ -1,5 +1,5 @@
 # **👋🏻 Hi, I'm Rima !**
-[photo_5807949816590882967_y.jpg]([https://github.com/rimabohamdan/rimabohamdan/blob/main/photo_5807949816590882967_y.jpg](https://github.com/rimabohamdan/rimabohamdan/commit/46758eb074c80583dcbb617895224bc0697a5bbd?diff=unified&w=1#commitcomment-140712278))
+<!--[photo_5807949816590882967_y.jpg](https://github.com/rimabohamdan/rimabohamdan/commit/46758eb074c80583dcbb617895224bc0697a5bbd?diff=unified&w=1#commitcomment-140712278)-->
 ##
  🌱 I’m currently learning the Python programming language and working on enhancing my skills in it. 
  
