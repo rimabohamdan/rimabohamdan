@@ -1,16 +1,13 @@
-### Hi there 👋
+###          👋🏻 Hi, I'm Rima !
 
-<!--
-**rimabohamdan/rimabohamdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🌱 I’m currently learning the Python programming language and working on enhancing my skills in it. 
+ 
+ 👯 I'm looking to collaborate on open- source projects and interesting coding challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 How to reach me: Feel free to connect with me on LinkedIn.
+ 
+ 😄 Pronouns: She/Her
+ 
+ ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
+
