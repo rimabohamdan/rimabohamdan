@@ -14,8 +14,8 @@
  ⚡ Fun fact: Coding is my passion, and I believe in the power of well-written code to make a positive impact.
 
 ### Certificates
-**1️⃣ Python Intermediate**
+**1.Python Intermediate**
 [![Python Intermediate](https://api2.sololearn.com/v2/certificates/CC-OMBVSF1X/image/png)](https://github.com/rimabohamdan)
 
-**2️⃣ Introduction to Python**
+**2.Introduction to Python**
  [![Introduction to Python](https://api2.sololearn.com/v2/certificates/CC-NHDXY9KW/image/png)](https://github.com/rimabohamdan)
