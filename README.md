@@ -19,3 +19,6 @@
 
 **2.Introduction to Python**
  [![Introduction to Python](https://api2.sololearn.com/v2/certificates/CC-NHDXY9KW/image/png)](https://github.com/rimabohamdan)
+
+ **3.Python Developer**
+ [![Python Developer](https://api2.sololearn.com/v2/certificates/CC-USGOYLFD/image/png)](https://github.com/rimabohamdan)
